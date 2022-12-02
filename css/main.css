@@ -1,0 +1,10 @@
+.center {
+    display: flex;
+    justify-content: center;
+    padding-block: 1rem;
+    gap: 1rem;
+    background-color: khaki;
+}
+.center a {
+    font-size: larger;
+}
